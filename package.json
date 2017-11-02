@@ -1,0 +1,22 @@
+ {
+  "name": "emojicoin",
+  "version": "0.0.1",
+  "description": "An suite of emotional coins for emotional human consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-forge/emojiCoin.git"
+  },
+  "author": "Coder Forge - Blockchain Forge Dublin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coder-forge/emojiCoin/issues"
+  },
+  "homepage": "https://github.com/coder-forge/emojiCoin#readme",
+  "dependencies": {
+    "truffle": "^4.0.1"
+  }
+}
