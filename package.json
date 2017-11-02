@@ -1,4 +1,4 @@
- {
+{
   "name": "emojicoin",
   "version": "0.0.1",
   "description": "An suite of emotional coins for emotional human consumption",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/coder-forge/emojiCoin#readme",
   "dependencies": {
     "truffle": "^4.0.1"
+  },
+  "devDependencies": {
+    "zeppelin-solidity": "^1.3.0"
   }
 }
